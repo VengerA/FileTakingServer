@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Yes_White</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-21.000000, -79.000000)" fill-rule="nonzero">
+            <g id="Yes_White" transform="translate(21.000000, 79.000000)">
+                <circle id="Oval-4" fill="#FFFFFF" cx="20" cy="20" r="20"></circle>
+                <path d="M27.6666667,20.8333333 L13.1666667,20.8333333 L13.1666667,15.3333333 C13.1666667,14.873096 12.7935706,14.5 12.3333333,14.5 C11.873096,14.5 11.5,14.873096 11.5,15.3333333 L11.5,21.6666667 C11.5,22.126904 11.873096,22.5 12.3333333,22.5 L27.6666667,22.5 C28.126904,22.5 28.5,22.126904 28.5,21.6666667 C28.5,21.2064294 28.126904,20.8333333 27.6666667,20.8333333 Z" id="Combined-Shape" stroke="#01BD6F" fill="#01BD6F" transform="translate(20.000000, 18.500000) rotate(-45.000000) translate(-20.000000, -18.500000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

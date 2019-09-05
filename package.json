@@ -1,0 +1,22 @@
+{
+  "name": "webserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "VengerA",
+  "license": "ISC",
+  "dependencies": {
+    "apify": "^0.15.5",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "file-system": "^2.2.2",
+    "fs-extra": "^8.1.0",
+    "puppeteer": "^1.19.0",
+    "puppeteer-core": "^1.19.0",
+    "start": "^5.1.0",
+    "website-scraper": "^4.1.0"
+  }
+}
